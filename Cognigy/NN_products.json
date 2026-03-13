@@ -1,0 +1,2720 @@
+[
+  {
+    "product_name": "NN Orange Cross (HR1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HR1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "reimbursement, direct compensation",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Orange Health (HR2)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HR2",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "reimbursement, direct compensation",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Orange Easy Group (HC1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HC1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "direct compensation",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Orange Easy Bio (HC2)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HC2",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "direct compensation",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Orange Easy Dunant (HC3)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HC3",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "direct compensation",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Hospital for all (HC4)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HC4",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "direct compensation",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Orange First Care (FC1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "FC1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Care for all (OV1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "OV1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN CareApp (DR1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "DR1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas & Direct Sales (web)",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual only with debit or credit card",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Orange Life (σταθερού κεφαλαίου) (ΤΤ5)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "ΤΤ5",
+      "category": "individual",
+      "subcategory": "life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Orange Life (μειούμενου κεφαλαίου) (ΤΤ6)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "ΤΤ6",
+      "category": "individual",
+      "subcategory": "life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Orange Life (TR1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "TR1",
+      "category": "individual",
+      "subcategory": "life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Orange Life Plus (TR2)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "TR2",
+      "category": "individual",
+      "subcategory": "life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "Πρόσκαιρη ασφάλεια ζωής (175)",
+    "aliases": "",
+    "product_details": {
+      "product_code": 175,
+      "category": "individual",
+      "subcategory": "life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alernative payment options: RF Code Payment or direct debit from bank account",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "call",
+      "how_to_change_frequency": "call",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Orange Genius (MC2)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "MC2",
+      "category": "individual",
+      "subcategory": "investment",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Ultima (UR1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "UR1",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Accelerator+ (issued 10/01/2023 untill now) (UR3)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "UR3",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Single Flex (UD1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "UD1",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Orange Genius Plus Campaign (MG1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "MG1",
+      "category": "individual",
+      "subcategory": "investment",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Single Premium Unit Linked (SP1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "SP1",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Unica (SP2, SP3)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "SP2, SP3",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Unica Plus (SP4)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "SP4",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Optima / Optima Junior (U90, N90)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "U90, N90",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Optima Plus (U92 ,U93 N92, N93)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "U92 ,U93 N92, N93",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Selecta / Selecta Junior (NL3, NL5, UL3, UL5)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "NL3, NL5, UL3, UL5",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Βιβλιάριο Σπουδών (PSR)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "PSR",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Βιβλιάριο Σύνταξης (PBR)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "PBR",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Orange Pension (RPB)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "RPB",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly frequency allowed only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Συνταξιοδοτικό Pensio Eterna (194)",
+    "aliases": "",
+    "product_details": {
+      "product_code": 194,
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alernative payment options: RF Code Payment or direct debit from bank account",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "call",
+      "how_to_change_frequency": "call",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Συνταξιοδοτικό Pension Step (195, 196)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "195, 196",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alernative payment options: RF Code Payment or direct debit from bank account",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "call",
+      "how_to_change_frequency": "call",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Αποταμιευτικό πρόγραμμα (200)",
+    "aliases": "",
+    "product_details": {
+      "product_code": 200,
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alernative payment options: RF Code Payment or direct debit from bank account",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "call",
+      "how_to_change_frequency": "call",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Extra Μισθός (SPA)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "SPA",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Extra Plus (SPE)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "SPE",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Συνταξιοδοτικό εφάπαξ καταβολή (42, 192)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "42, 192",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alernative payment options: RF Code Payment or direct debit from bank account",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "call",
+      "how_to_change_frequency": "call",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Μικτή ασφάλεια ζωής (33)",
+    "aliases": "",
+    "product_details": {
+      "product_code": 33,
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alernative payment options: RF Code Payment or direct debit from bank account",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "call",
+      "how_to_change_frequency": "call",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Ισόβια μηνιαία σύνταξη (43)",
+    "aliases": "",
+    "product_details": {
+      "product_code": 43,
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alernative payment options: RF Code Payment or direct debit from bank account",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "call",
+      "how_to_change_frequency": "call",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Ισόβια ασφάλεια ζωής (034, 035)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "034, 035",
+      "category": "individual",
+      "subcategory": "whole of life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "agent NN Hellas",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alernative payment options: RF Code Payment or direct debit from bank account",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "call",
+      "how_to_change_frequency": "call",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Direct Health (HM1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HM1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Direct Sales (web)",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "direct compensation",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Direct Health - REA (HM1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HM1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Direct Sales (web)",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "myNN",
+      "how_to_change_frequency": "myNN",
+      "type_of_compensation_payment": "direct compensation",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "Smart Plan (MC1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "MC1",
+      "category": "individual",
+      "subcategory": "investment",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "No, contact bank branch",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Smart Move (MG3)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "MG3",
+      "category": "individual",
+      "subcategory": "investment",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "No, contact bank branch",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "Ultra Plan (UR2)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "UR2",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "No, contact bank branch",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "Smart Premium (MG2)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "MG2",
+      "category": "individual",
+      "subcategory": "investment",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "Λύσεις Υγείας Gold (HG1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HG1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "No, contact bank branch",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "reimbursement, direct compensation",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "Λύσεις Υγείας Gold  Staff (HG1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HG1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "No, contact bank branch",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "reimbursement, direct compensation",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "Λύσεις Υγείας Easy (HB1)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "HB1",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly (all frequencies with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "No, contact bank branch",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "Focus On You (FS2)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "FS2",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual  (only with direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "No, contact bank branch",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "No",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "Προστασία Ζωής (TT9)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "TT9",
+      "category": "individual",
+      "subcategory": "life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "No, contact bank branch",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "Yes"
+    }
+  },
+  {
+    "product_name": "NN Πειραιώς Σύνταξη",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Πειραιώς Παιδί και Μέλλον",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "NN Επιβίωση",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Πρόσκαιρη ασφάλιση θανάτου",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Πρόσκαιρη ασφάλιση θανάτου ενός ατόμου",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ΝΝ Πειραιώς Εγγγυημένος Μισθός/Guaranteed Capital",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Lion Ζωής",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "life",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Lion Futura",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "investment",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ΝΝ Πειραιώς Δημιουργείν",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "investment",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ΝΝ Ζωής Αποταμιευτικό (NN Life Saving)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "NN Hellas",
+      "distribution_subchannel": "Bankassurance through Piraeus bank",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (payment possible only via direct debit for all frequencies)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "No. Alternative payment method: Direct Debit",
+      "ability_to_change_credit_card_via_mynn": "No",
+      "how_to_change_payment_method": "contact bank branch",
+      "how_to_change_frequency": "contact bank branch",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Citifuture",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Citigold Future",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Citigold Pens Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Hellenic Future Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Alico Care",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Hospital Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Hospital Plus Standard",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ABC Mediguard",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ABC Mediguard Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Alico Mediguard",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Mediguard",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Mediguard Thesis",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Mediguard Total Protection",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Mediplus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Mediplus Standard",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "2η Ιατρική Γνωμάτευση",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ABC Health Care",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "HealthNet",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Medicare Generation Next",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Medicare Gold",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Medicare Platinum",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Ασφάλιση Προσωπικών Ατυχημάτων",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II & ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "how_to_change_frequency": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Προσωπικών Ατυχημάτων",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II & ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "how_to_change_frequency": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Απαλλαγή Πληρωμής Ασφαλίστρων λόγω Ανικανότητας",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II & ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "how_to_change_frequency": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Επίδομα Διάγνωσης Καρκίνου",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Extramed 7",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Extramed 31",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "LadyCare",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Accident Protector",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Junior Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Kids Care",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Kids Care Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "MediPlan",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "MediCash",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Ασφάλιση Νοσοκομειακής Περίθαλψης από Ασθένεια ή Ατύχημα",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II & ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "how_to_change_frequency": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Ασφάλιση Απώλειας Εισοδήματος από Ασθένεια",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Ασφαλιστήριο Σύνθετης Προστασίας",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "health",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Life Essential",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "Term",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Life Decrasing Term / Φθίνουσα Δανείου",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "Term",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Life Essential Evolving",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "Term",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Life Cover Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "Term",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ACCELERATOR PLUS 2.0 (issued until 31/12/2022)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ACCELERATOR PLUS (issued until 31/12/2022)",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ADB Def Annuity",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II & ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "how_to_change_frequency": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ADB Hellenic Pension",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ADB Pure Endowment",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "term",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II & ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "how_to_change_frequency": "agent ex NN Hellas II: contact agent, ex NN Hellas II Bankassurance product: email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Adult Pens Reclas",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Advance Fund",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Advance Pension",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ALICO ACCELERATOR",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ALICO CAPITAL LINK",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ALICO INVEST CAREER",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ALICO INVEST CLASSIC",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Alico Invest Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "ALICO SCORE INVEST",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "unit linked",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "CREDICOM EASY ADULT",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "FX LINK BP",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "FX LINK US",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "single premium",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "",
+      "ability_to_change_credit_card_via_mynn": "",
+      "how_to_change_payment_method": "",
+      "how_to_change_frequency": "",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Gold Fund 2",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Gold Fund",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Gold Pension",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "HEL PLUS Recl adult",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "HEL PLUS Recl Child",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Ind. Pens Jr Success",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Jr PLUS Reclas 2",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Jr PLUS Reclas",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Jr PLUS Reclas TU",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Jr Success Reclas",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Junior Fund",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Junior Επιβίωση",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Junior Επιβίωση Recl",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Life Essential Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Life Shield",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "PEN PL Recl adult TU",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "PENS PLUS Recl adul2",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "PENS PLUS Recl adult",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Pension, Jr Success",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "PROTON PEN Rec child",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Proton Παιδί",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Quality Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Quality Plus, Junior",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Red Plus",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Smart Pension",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Smart Plus, Junior",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "WL 259ZZ0000",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "WL Junior",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Ελληνική Αξία",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Ελληνική Αξία, Jr",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Επαγγελματική Αποκατάσταση",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Επιβίωση Recl adult",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Μητέρα Care Club 320EE0100",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "ex NN Hellas II Bankassurance product",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "email: info@nnhellas.gr",
+      "how_to_change_frequency": "email: info@nnhellas.gr",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Μικτή, Junior Μικτή",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  },
+  {
+    "product_name": "Υπερεπενδυτικό",
+    "aliases": "",
+    "product_details": {
+      "product_code": "",
+      "category": "individual",
+      "subcategory": "savings",
+      "distribution_channel": "ex NN Hellas II",
+      "distribution_subchannel": "agent ex NN Hellas II",
+      "allowed_premium_payment_frequencies_and_payment_options": "annual, semi-annual, quarterly, monthly (monthly payment possible only via direct debit)",
+      "possibility_of_changing_credit_card_if_already_paid_with_credit_card": "Yes",
+      "ability_to_change_credit_card_via_mynn": "Yes",
+      "how_to_change_payment_method": "contact agent",
+      "how_to_change_frequency": "contact agent",
+      "type_of_compensation_payment": "",
+      "available_for_sale": "No"
+    }
+  }
+]
