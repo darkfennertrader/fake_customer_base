@@ -1,3 +1,5 @@
 *
 !.gitignore
 !customer_base20.json
+!NN_products.json
+!customer_base_20.json
